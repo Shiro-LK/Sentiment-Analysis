@@ -8,4 +8,4 @@ Using 20% for validation :
 - lstm : 83% accuracy
 
 Using rt\_test:
--lstm : 79% accuracy 
+- lstm : 79% accuracy 
